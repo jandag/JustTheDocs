@@ -101,7 +101,7 @@ This ~~not a text~~ that I want to show.
 ## IMAGE WITH HOVER TEXT
 <!-- Example of an image with hover text -->
 
-![Picture with hover text](https://picsum.photos/id/237/200/ "dog")
+![Picture with hover text](https://picsum.photos/id/237/200/ "puppy")
 
 
 ## INLINE CODE
